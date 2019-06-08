@@ -1,4 +1,4 @@
-# :sparkle: Klack Klack :sparkle:
+# :sparkles: Klack Klack :sparkles:
 ## A Next.js + Apollo GraphQL Mechanical Keyboard Storefront
 ---
 
