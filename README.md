@@ -3,7 +3,7 @@
 ---
 
 - I'm tired of working in Vue and Apollo at work and really want to do more React, so I'm building something with React/Next and Apollo to further hone my skills in React and GraphQL. :fire:
-- I have loved using Storybook to build applications at work using Component-Driven Development, but that's Vue and I want to use React with Styled-Components... So I will be creating all components using Styled-Components in Storybook.
+- I have loved using Storybook to build applications at work using Component-Driven Development, but that's Vue and I want to use React with Styled-Components (might switch to Emotion later)... So I will be creating all components using Styled-Components in Storybook.
 
 ## Tech
 ### Client
