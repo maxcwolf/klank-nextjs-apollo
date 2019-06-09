@@ -1,5 +1,5 @@
 import Link from "next/link"
-import NavStyled from "../components/styled/NavStyled"
+import NavStyled from "./styled/NavStyled"
 
 const Nav = () => (
   <div>
