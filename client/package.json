@@ -10,7 +10,7 @@
     "test": "NODE_ENV=test jest --watch",
     "test-win": "SET NODE_ENV=test&& jest --watch",
     "heroku-postbuild": "next build",
-    "storybook": "start-storybook -p 6006",
+    "storytime": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
   "author": "",
